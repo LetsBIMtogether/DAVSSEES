@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<!--Before'.' is in properties-->
+		<FullClassName>AG_PLUGIN_NAME.App</FullClassName>
+		<ClientId>56931BBD-5923-4EB6-A830-B8F46744BD3A</ClientId>
+		<Name>AG DAVSSES</Name>
+		<Assembly>AG_PLUGIN_NAME.dll_== Edit in project's properties ==</Assembly>
+		<VendorId>== Edit in project's properties ==</VendorId>
+		<VendorDescription>== Edit (company + authors + website) in project's properties ==</VendorDescription>
+	</AddIn>
+		
+</RevitAddIns>
+

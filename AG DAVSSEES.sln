@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG DAVSSEES", "AG DAVSSEES.csproj", "{D356140C-C5AC-470D-BB4B-18CE0E336245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug24-|x64 = Debug24-|x64
+		Debug25+|x64 = Debug25+|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Debug24-|x64.ActiveCfg = Debug24-|x64
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Debug24-|x64.Build.0 = Debug24-|x64
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Debug25+|x64.ActiveCfg = Debug25+|x64
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Debug25+|x64.Build.0 = Debug25+|x64
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Release|x64.ActiveCfg = Release|x64
+		{D356140C-C5AC-470D-BB4B-18CE0E336245}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16640C8D-3C96-4BBA-B67F-3B4E5CCDE2E5}
+	EndGlobalSection
+EndGlobal
