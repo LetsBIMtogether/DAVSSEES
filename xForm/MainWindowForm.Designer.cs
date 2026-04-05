@@ -221,7 +221,7 @@ namespace AG_DAVSSEES.xForm
             this.MaximumSize = new System.Drawing.Size(700, 900);
             this.MinimumSize = new System.Drawing.Size(600, 600);
             this.Name = "MainWindowForm";
-            this.Text = "AG DAVSSEES v1.0";
+            this.Text = "AG DAVSSEES v1.1";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.tableLayoutPanel2.ResumeLayout(false);

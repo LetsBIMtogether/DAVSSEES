@@ -1,8 +1,7 @@
 # DAVSSEES  
 
 👉 [Download from Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=6913095616126563267)  
-<!--
-🎥 [Watch a YouTube demo here - comming soon...](https://www.youtube.com/@letsbimtogether/playlists)-->
+🎥 [Watch a YouTube demo](https://www.youtube.com/watch?v=Pf3_NEUH1lI)
 
 **D**elete **A**ll **V**iews, **S**heets, **S**chedules, **E**tc. **E**xcept **S**election
 

@@ -56,3 +56,4 @@ UpgradeLog*.htm
 # Misc
 CTC-VS.ps1
 CTC-VS.txt
+**/.claude/

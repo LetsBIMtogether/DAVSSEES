@@ -177,7 +177,7 @@ namespace AG_DAVSSEES.xForm
         private void button_About_Click(object sender, EventArgs e)
         {
             var fLM = new FormLinkMessage(
-                "Version 1.0\n\nPlugin by www.LetsBIMtogether.com\n\nCheck out LetsBIMtogether YouTube channel :)",
+                "Version 1.1\n\nPlugin by www.LetsBIMtogether.com\n\nCheck out LetsBIMtogether YouTube channel :)",
                 links: new[]
                 {
                     ("www.LetsBIMtogether.com", "https://letsbimtogether.com"),
